@@ -1,0 +1,50 @@
+Hic1 lineage:
+  - Hic1
+  - tdtomato
+Fibroblast:
+  - Pdgfra
+  - Bgn
+Universal Fibroblast:
+  - Dpt
+Mural cell/smooth muscle:
+  - Pdgfrb
+  - Myh11
+Endothelium:
+  - Plvap
+  - Pecam1
+  - Vwf
+Podocytes:
+  - Podxl
+Epithelium:
+  - Epcam
+Macula densa:
+  - Tenm2
+Proximal tubule:
+  - Slc27a2
+  - Miox
+  - Slc22a19
+Loop of Henle:
+  - Ppp1r1a
+Collecting duct:
+  - Slc14a2
+  - Aqp3
+  - Aqp2
+  - Hsd11b2
+Transitional cell epithelium:
+  - Krt19
+Immune cell:
+  - Ptprc
+B lymphocyte:
+  - Cd79a
+  - Cd74
+Macrophage:
+  - Ctss
+  - Laptm5
+  - Ms4a6b
+T lymphocyte/NK:
+  - Rac2
+Cycling cells:
+  - Mki67
+  - Top2a
+  - Cenpf
+  - Cdk1

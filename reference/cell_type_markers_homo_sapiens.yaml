@@ -1,0 +1,34 @@
+Fibroblasts:
+  - PDGFRA
+Universal Fibroblasts:
+  - DPT
+Mural cells/smooth muscle:
+  - PDGFRB
+  - DES
+  - ACTA2
+Skeletal muscle:
+  - MYBPC1
+Endothelium:
+  - PECAM1
+  - VWF
+Epithelium:
+  - EPCAM
+  - KRT7
+Immune cell:
+  - PTPRC
+B lymphocyte:
+  - CD79A
+  - MZB1
+T lymphocyte/NK:
+  - TRAC
+Macrophage:
+  - CD68
+  - MS4A6A
+Granulocyte:
+  - CPA3
+  - MS4A2
+Proliferation:
+  - MKI67
+  - TOP2A  
+  - CENPF
+  - CDK1

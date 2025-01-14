@@ -1,0 +1,15 @@
+Fibroblast:
+  - PDGFRA
+Universal Fibroblast:
+  - DPT
+Mural cells/smooth muscle:
+  - PDGFRB
+  - DES
+  - ACTA2
+Skeletal muscle:
+  - MYBPC1
+Proliferation:
+  - MKI67
+  - TOP2A  
+  - CENPF
+  - CDK1

@@ -1,0 +1,35 @@
+Hic1 lineage:
+  - Hic1
+  - tdtomato
+Fibroblast:
+  - Pdgfra
+  - Bgn
+Universal Fibroblast:
+  - Dpt
+Universal Fibroblast (Pi16):
+  - Pi16
+  - Dpp4
+  - Ly6a
+  - Pcolce2
+  - Ly6c1
+Universal Fibroblast (Col15a1):
+  - Col15a1
+  - Col4a1
+  - Hspg2
+  - Mfap4
+  - Cfh
+  - Lum
+Mural cell/smooth muscle:
+  - Pdgfrb
+  - Des
+  - Tagln
+  - Myh11
+Skeletal muscle:
+  - Pax7
+  - Myoz2
+  - Ttn
+Cycling cells:
+  - Mki67
+  - Top2a
+  - Cenpf
+  - Cdk1

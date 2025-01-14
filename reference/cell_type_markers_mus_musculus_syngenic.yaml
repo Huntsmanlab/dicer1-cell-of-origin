@@ -1,0 +1,48 @@
+Hic1 lineage:
+  - Hic1
+  - tdtomato
+Fibroblast:
+  - Pdgfra
+Universal Fibroblast:
+  - Dpt
+Universal Fibroblast (Pi16):
+  - Pi16
+  - Dpp4
+  - Ly6a
+  - Pcolce2
+  - Ly6c1
+Universal Fibroblast (Col15a1):
+  - Col15a1
+  - Col4a1
+  - Hspg2
+  - Mfap4
+  - Cfh
+  - Lum
+Mural cell/smooth muscle:
+  - Pdgfrb
+  - Des
+  - Tagln
+  - Myh11
+Skeletal muscle:
+  - Myoz2
+  - Ttn
+Cycling cells:
+  - Mki67
+  - Top2a
+  - Cenpf
+  - Cdk1
+Endothelium:
+  - Plvap
+  - Pecam1
+  - Vwf
+Immune cell:
+  - Ptprc
+B lymphocyte:
+  - Cd79a
+  - Cd74
+Macrophage:
+  - Ctss
+  - Laptm5
+  - Ms4a6b
+T lymphocyte/NK:
+  - Rac2
